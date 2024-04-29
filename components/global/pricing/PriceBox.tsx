@@ -23,7 +23,7 @@ const PriceBox = ({name, save, price, monthly, packageList, number, start}:any) 
             })}
           </ul>
           <div className="my-5">
-          <Link href="/" className="bg block text-center text-color-fourth font-semibold md:text-[16px] sm:text-xl text-lg rounded-[23px] w-5/6 mx-auto mb-3 py-2">{number}</Link>
+          <Link href= {`tel:${number}`} className="bg block text-center text-color-fourth font-semibold md:text-[16px] sm:text-xl text-lg rounded-[23px] w-5/6 mx-auto mb-3 py-2">{number}</Link>
           <Link href="/" className="bg block text-center text-color-fourth font-semibold md:text-[16px] sm:text-xl text-lg rounded-[23px] w-5/6 mx-auto py-2">{start}</Link>
           </div>
       </div>

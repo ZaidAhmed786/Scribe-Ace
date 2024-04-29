@@ -20,6 +20,7 @@ export default function Home() {
     <>
       <Head>
         <title>Home</title>
+        <link rel="icon" href="/fav.png"  />
       </Head>
       <main>
       <Header />

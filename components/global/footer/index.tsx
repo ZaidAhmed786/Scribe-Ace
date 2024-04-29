@@ -1,6 +1,5 @@
 import Link from "next/link";
 
- 
 const Footer = () => {
   return (
     <footer className="w-full bg-cover testimonials-bg">
@@ -20,36 +19,39 @@ const Footer = () => {
             <div className=" sm:flex-col md:flex-row lg:ml-20 sm:ml-7 mt-1 sm:mt-0">
               <ul className="">
                 <li className="font-medium lg:text-sm text-black opacity-40 my-3 ">
-                <Link href="/">Book Publishing</Link>
+                  <Link href="/book-publishing">Book Publishing</Link>
                 </li>
                 <li className="font-medium lg:text-sm text-black opacity-40 my-3">
-                  <Link href="/">Book Editing</Link>
+                  <Link href="/book-editing">Book Editing</Link>
                 </li>
                 <li className="font-medium lg:text-sm text-black opacity-40 mt-3 mb-0 sm:my-3">
-                  <Link href="/">Book Marketing</Link>
+                  <Link href="/book-marketing">Book Marketing</Link>
                 </li>
               </ul>
             </div>
             <div className=" sm:flex-col md:flex-row lg:ml-20 sm:ml-7 mt-1 sm:mt-0 sm:pt-6 md:pt-0">
               <ul className="">
                 <li className="font-medium lg:text-sm text-black opacity-40 my-3 ">
-                  <Link href="/">Ghost Writing</Link>
+                  <Link href="/ghost-writing">Ghost Writing</Link>
                 </li>
                 <li className="font-medium lg:text-sm text-black opacity-40 my-3">
-                  <Link href="/">Illustration Designs</Link>
+                  <Link href="/illustration">Illustration Designs</Link>
                 </li>
                 <li className="font-medium lg:text-sm text-black opacity-40 mt-3 mb-0 sm:my-3">
-                  <Link href="/">Script Writing </Link>
+                  <Link href="/script-writing">Script Writing </Link>
                 </li>
               </ul>
             </div>
             <div className=" sm:flex-col md:flex-row lg:ml-20 sm:ml-7 sm:pt-6 md:pt-0">
               <ul className="">
                 <li className="font-medium lg:text-sm text-black opacity-40 my-3 ">
-                  <Link href="/">Proof Reading</Link>
+                  <Link href="/privacy-policy">Privacy Policy</Link>
                 </li>
                 <li className="font-medium lg:text-sm text-black opacity-40 my-3">
-                  <Link href="/">Book Cover Design</Link>
+                  <Link href="/refund-policy">Refund Policy</Link>
+                </li>
+                <li className="font-medium lg:text-sm text-black opacity-40 my-3">
+                  <Link href="/terms-conditions">Terms & Conditions</Link>
                 </li>
               </ul>
             </div>
@@ -79,22 +81,36 @@ const Footer = () => {
           </select>
         </div>
       </div>
-      <div className="max-w-[1252px] mx-auto py-4 flex md:flex-row gap-4 md:gap-0 flex-col justify-center items-center md:justify-between ">
-          <div className="flex space-x-3 ml-4 ">
-            
-            <span className=" bg-[/FFFFFF] rounded-[50%] h-12 w-12 flex items-center justify-center social-icon">
-              <img src="iconFirst.png" alt="/" className="white"  />
-            </span>
 
-            <span className="bg-[/FFFFFF] rounded-[50%]  h-12 w-12 flex items-center justify-center social-icon">
-              <img src="iconeTwo.png" alt="/" className="white" />
-            </span>
-            <span className="bg-[/FFFFFF] rounded-[50%]  h-12 w-12 flex items-center justify-center social-icon">
-              <img src="iconThree.png" alt="/" className="white" />
-            </span>
-          </div>
-          <img className="w-3/4 lg:w-2/6  md:mr-4 md:w-[50%]" src="payment-icon 1.png" alt="" />
+      <div className="max-w-[1252px] mx-auto py-4 flex md:flex-row gap-4 md:gap-0 flex-col justify-center items-center md:justify-between ">
+        <div className="flex space-x-3 ml-4 ">
+          <span className=" bg-[/FFFFFF] rounded-[50%] h-12 w-12 flex items-center justify-center social-icon">
+            <img src="iconFirst.png" alt="/" className="white" />
+          </span>
+
+          <span className="bg-[/FFFFFF] rounded-[50%]  h-12 w-12 flex items-center justify-center social-icon">
+            <img src="iconeTwo.png" alt="/" className="white" />
+          </span>
+          <span className="bg-[/FFFFFF] rounded-[50%]  h-12 w-12 flex items-center justify-center social-icon">
+            <img src="iconThree.png" alt="/" className="white" />
+          </span>
         </div>
+        <img
+          className="w-3/4 lg:w-2/6  md:mr-4 md:w-[50%]"
+          src="payment-icon 1.png"
+          alt=""
+        />
+      </div>
+      <div className="container mx-auto px-4 bottom-1 pb-4 footer_border">
+        <div className="flex flex-wrap justify-center items-center">
+          <p className="text-white text-sm sm:text-base">
+            Copyright © 2024 Nell Beamen LLC |{" "}
+            <Link href="/refund-policy">Refund Policy</Link> |{" "}
+            <Link href="/terms-conditions">Terms & Conditions </Link>|{" "}
+            <Link href="/privacy-policy">Privacy Policy</Link>
+          </p>
+        </div>
+      </div>
     </footer>
   );
 };
