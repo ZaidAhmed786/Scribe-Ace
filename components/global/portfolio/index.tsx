@@ -33,7 +33,7 @@ const Portfolio = () => {
       img: "/Poster-3.png",
     },
     {
-      img: "/poster.png",
+      img: "/Poster.png",
     },
     {
       img: "/Poster-2.png",
@@ -63,7 +63,7 @@ const Portfolio = () => {
       img: "/Poster-3.png",
     },
     {
-      img: "/poster.png",
+      img: "/Poster.png",
     },
     {
       img: "/Poster-2.png",
