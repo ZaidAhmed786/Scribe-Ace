@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 type Prop = {
   title: string;
   details: string; 
@@ -13,7 +15,7 @@ const Cta = (props:Prop) => {
         </div>
         <div className="flex sm:justify-center justify-center">
     
-    <a className="sm:mb-24 mb-16 lg:px-20 lg:py-4 md:px-10 md:py-3  px-9 py-2  rounded-[59px] text-color-fourth bg-cover lg:text-xl lg:font-bold md:text-md text-md font-medium"   href='tel:+1 863 624 6770'style={{backgroundImage:'url("Button (2).png")' }}>+1 (863) 624-6770</a>
+    <Link className="sm:mb-24 mb-16 lg:px-20 lg:py-4 md:px-10 md:py-3  px-9 py-2  rounded-[59px] text-color-fourth bg-cover lg:text-xl lg:font-bold md:text-md text-md font-medium"   href='tel:+1 863 624 6770'style={{backgroundImage:'url("Button (2).png")' }}>+1 (863) 624-6770</Link>
     </div>
       </div>
     </section>

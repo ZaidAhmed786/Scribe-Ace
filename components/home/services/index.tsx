@@ -23,7 +23,8 @@ function Services() {
           {data.item.map((item:any, i:number) =>{
             return <div
             className="p-2 py-4 bg2 pt-16 max-sm:pt-6 lg:w-[27%] xl:max-w-[22%] mr-6 border-4 border-color-primary hover-class hover:border-gray-300
-           w-full sm:w-[40%] md:w-[46%] mb-8 shadow-xl rounded-[50px] work_col"
+           w-full sm:w-[40%] md:w-[46%] mb-8 shadow-xl rounded-[50px] work_col" 
+           key = {i.toString()}
           >
             <div className="w-20 h-16 mb-16 inline-flex items-center ">
               <img className="ml-6" src={item.url} alt="" />
