@@ -12,61 +12,61 @@ const Portfolio = () => {
       img: "/poster.png",
     },
     {
-      img: "/Poster (1).png",
+      img: "/Poster(1).png",
     },
     {
-      img: "/poster (2).png",
+      img: "/poster(2).png",
     },
     {
-      img: "/poster (3).png",
+      img: "/poster(3).png",
     },
     {
-      img: "/poster (4).png",
+      img: "/poster(4).png",
     },
     {
-      img: "/poster (5).png",
+      img: "/poster(5).png",
     },
     {
-      img: "/poster (6).png",
+      img: "/poster(6).png",
     },
     {
-      img: "/poster (3).png",
-    },
-    {
-      img: "/poster.png",
-    },
-    {
-      img: "/poster (2).png",
+      img: "/poster(3).png",
     },
     {
       img: "/poster.png",
     },
     {
-      img: "/Poster (1).png",
-    },
-    {
-      img: "/poster (2).png",
-    },
-    {
-      img: "/poster (3).png",
-    },
-    {
-      img: "/poster (4).png",
-    },
-    {
-      img: "/poster (5).png",
-    },
-    {
-      img: "/poster (6).png",
-    },
-    {
-      img: "/poster (3).png",
+      img: "/poster(2).png",
     },
     {
       img: "/poster.png",
     },
     {
-      img: "/poster (2).png",
+      img: "/Poster(1).png",
+    },
+    {
+      img: "/poster(2).png",
+    },
+    {
+      img: "/poster(3).png",
+    },
+    {
+      img: "/poster(4).png",
+    },
+    {
+      img: "/poster(5).png",
+    },
+    {
+      img: "/poster(6).png",
+    },
+    {
+      img: "/poster(3).png",
+    },
+    {
+      img: "/poster.png",
+    },
+    {
+      img: "/poster(2).png",
     },
   ];
   return (
