@@ -9,7 +9,7 @@ const Portfolio = () => {
   const {width} = useDimensions()
   const data = [
     {
-      img: "/poster.png",
+      img: "/Poster.png",
     },
     {
       img: "/Poster-1.png",
@@ -39,7 +39,7 @@ const Portfolio = () => {
       img: "/Poster-2.png",
     },
     {
-      img: "/poster.png",
+      img: "/Poster.png",
     },
     {
       img: "/Poster-1.png",
