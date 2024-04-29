@@ -1,5 +1,5 @@
-import { Prop } from ".";
-const Content = ({ heading, description, listing}: Prop) => {
+ 
+const Content = ({ heading, description, listing}: any) => {
   return (
     <div className="lg:w-1/2 pr-2 mx-auto mt-8">
       <h1 className={`lg:text-4xl text-2xl text-heading md:text-3xl sm:text-3xl pt-4  font-bold lg:py-4 md:py-2 letter-tight leading-10 text-left relative banner   text-color-secondary `}>
