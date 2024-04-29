@@ -74,7 +74,7 @@ const Portfolio = () => {
       <div className=" mx-auto">
         <div className="flex flex-col text-center w-full mb-10">
           <h1 className="xl:text-4xl font-medium lg:text-3xl md:text-3xl lg:font-bold text-2xl title-font mb-4 text-color-secondary mt-16 px-4">
-            Books We've Published
+            Books We have Published
           </h1>
           <p className=" mx-auto leading-6 text-base xl:text-xl lg:text-lg  text-md px-3 font-normal text-color-fifth">
             To determine which content writing service will suit your needs,
@@ -95,7 +95,7 @@ const Portfolio = () => {
         >
           {data.map((data:any, i:number) => {
             return (
-              <SwiperSlide>
+              <SwiperSlide key={i}>
                 <div className="flex w-full md:py-5">
                   <img alt="gallery" src={data.img} />
                 </div>

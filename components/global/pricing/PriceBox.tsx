@@ -12,9 +12,9 @@ const PriceBox = ({name, save, price, monthly, packageList, number, start}:any) 
           <p className="text-color-secondary font-medium">{monthly}</p>
         </div>
         <ul className="pb-7 mt-7">
-            {packageList.map((data:any)=>{
+            {packageList.map((data:any, index: number)=>{
               return(
-              <li className="flex text-[12px] font-medium py-2 px-3">
+              <li className="flex text-[12px] font-medium py-2 px-3" key = {index}>
                <Image src={tick} alt="" className="mr-2" />
                 {data.list}
                 </li> 

@@ -14,7 +14,7 @@ function Services() {
         <p className="text-lg mt-4 mb-16 text-center text-black max-sm:text-xs max-w-[72%] mx-auto">
           Web Developers INC focuses on delivering highly competitive web
           designing services for different businesses around the country.
-          Whether it's an emerging fashion brand or a construction company, our
+          Whether it is an emerging fashion brand or a construction company, our
           approach generates impressive results. Want to know the best part? We
           offer other services as well
         </p>
