@@ -1,16 +1,5 @@
-type benefits = {
-  benefits1: {
-    url: "string";
-    title: "string";
-    details: "string";
-  }[];
-  benefits2: {
-    url: "string";
-    title: "string";
-    details: "string";
-  }[];
-};
-const Benifits = (props: benefits) => {
+ 
+const Benifits = (props: any) => {
   return (
     <section className="text-gray-600 body-font testimonials-bg">
       <div className="container px-5 md:py-24 py-14 mx-auto">

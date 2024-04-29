@@ -1,16 +1,6 @@
 import PriceBox from "@/components/global/pricing/PriceBox";
-type Price = {
-  prices: {
-    name: string,
-    save: string,
-    price: string,
-    monthly: string,
-    packageList: string,
-    number: string,
-    start: string
-  }[]
-}
-const Pricing = (props: Price) => {
+  
+const Pricing = (props: any) => {
   
   return (
     <section className="my-16">
