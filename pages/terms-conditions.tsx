@@ -56,7 +56,7 @@ const TermsAndConditions = () => {
               <p className="text-gray-700 mb-2">If you have any questions regarding our Terms and Conditions or your dealings with scribe-ace.vercel.app, please contact through our Contact Form, or with the following information:</p>
               <p className="text-gray-700 mb-2">BWQ Technologies LLC</p>
               <p className="text-gray-700 mb-2">215 Debbie Ann Ct, Auburndale, FL 33823</p>
-              <p className="text-gray-700 mb-2"> <a href="tel:18636246770">+1 (863) 624-6770</a></p>
+              <p className="text-gray-700 mb-2"> <a href="tel:12102907551">+1 (210) 290-7551</a></p>
               <p className="text-gray-700 mb-2"><a href="mailto:beamennell@gmail.com">beamennell@gmail.com</a></p>
             </div>
 

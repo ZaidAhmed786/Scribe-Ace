@@ -121,10 +121,10 @@ export default function Header() {
           </div>
           <div>
             <Link
-              href="tel:+1 863 624 6770"
+              href="tel:+1 210 290 7551"
               className="bg-color-secondary font-semibold text-color-fourth bg inline-block md:text-xl md:py-2 md:px-8 py-1 px-3  rounded-[28px] sm:text-lg"
             >
-              +1 (863) 624-6770
+              +1 (210) 290-7551
             </Link>
           </div>
         </div>
