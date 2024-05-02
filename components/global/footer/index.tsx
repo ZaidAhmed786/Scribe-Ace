@@ -97,7 +97,7 @@ const Footer = () => {
       <div className="container mx-auto px-4 bottom-1 pb-4 footer_border">
         <div className="flex flex-wrap justify-center items-center">
           <p className="text-white text-sm sm:text-base">
-            Copyright © 2024 Nell Beamen LLC |{" "}
+            Copyright © 2024 BWQ Technologies LLC |{" "}
             <Link href="/refund-policy">Refund Policy</Link> |{" "}
             <Link href="/terms-conditions">Terms & Conditions </Link>|{" "}
             <Link href="/privacy-policy">Privacy Policy</Link>
