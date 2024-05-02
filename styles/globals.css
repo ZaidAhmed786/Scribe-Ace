@@ -1,0 +1,295 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  html,
+  body{
+    overflow-x: hidden;
+  }
+  .bg {
+    background: radial-gradient(
+      90.16% 143.01% at 15.32% 21.04%,
+      #47cfa4 0%,
+      #47bfc8 77.08%,
+      #47b0df 100%
+    );
+  }
+  .bg2 {
+    background: radial-gradient(
+      90.16% 143.01% at 15.32% 21.04%,
+      rgba(56, 149, 131, 0.5) 0%,
+      rgba(92, 219, 148, 0.5) 77.08%,
+      rgba(141, 228, 175, 0.5) 100%
+    );
+  }
+  .step_box {
+    max-width: 535px;
+    border-radius: 38px;
+    padding: 22px 31px;
+  }
+  .steps_sec .steps_row:nth-child(odd) .step_box {
+    border: 2px solid #80808091;
+  }
+  .steps_sec .steps_row:nth-child(even) .step_box {
+    border: 2px solid #40f4d4;
+  }
+  .steps_sec .steps_row:nth-child(odd) .step_box::after {
+    position: absolute;
+    right: -11px;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    background-color: #80808091;
+    width: 14px;
+    height: 14px;
+    content: "";
+    top: 46px;
+    transform: rotate(-28deg);
+  }
+  .steps_sec .steps_row:nth-child(even) .step_box::after {
+    position: absolute;
+    left: -11px;
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    background-color: rgba(92, 219, 148, 1);
+    width: 14px;
+    height: 14px;
+    content: "";
+    top: 46px;
+    transform: rotate(34deg);
+  }
+  .steps_sec .steps_row:nth-child(even) {
+    justify-content: unset;
+    flex-direction: row-reverse;
+  }
+  .steps_sec .steps_row:nth-child(even) .number_row {
+    flex-direction: row-reverse;
+  }
+  .steps_sec::after {
+    position: absolute;
+    left: 0;
+    right: 0;
+    content: "";
+    @apply bg-color-fourth;
+    height: 100%;
+    width: 4.5px;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+    border-radius: 77px;
+  }
+  .steps_sec .steps_row:nth-child(odd) .number_row {
+    left: 25px;
+  }
+  .steps_sec .steps_row:nth-child(even) .number_row {
+    right: 25px;
+  }
+  .steps_sec .steps_row:nth-child(odd) .number_row h6 {
+    transform: translateX(27px);
+  }
+  .steps_sec .steps_row:nth-child(even) .number_row h6 {
+    transform: translateX(-27px);
+  }
+  .navigation a {
+    font-size: 1vw;
+  }
+  .work_col {
+    transition: 0.7s;
+  }
+  @media screen and (max-width: 1245px) {
+    .step_box {
+      max-width: 41vw;
+    }
+  }
+  @media screen and (max-width: 750px) {
+    .number_row,
+    .steps_sec::after,
+    .steps_sec .steps_row:nth-child(odd) .step_box::after,
+    .steps_sec .steps_row:nth-child(even) .step_box::after {
+      display: none !important;
+    }
+    .step_box {
+      max-width: 100vw;
+      margin-bottom: 19px;
+    }
+  }
+  .social-icon:hover {
+    @apply bg-color-third;
+  }
+  .social-icon:hover img {
+    filter: brightness(6);
+    transform: translate;
+    transition: all 0.2s ease;
+  }
+}
+@layer utilities {
+  .hero-bg {
+    background-image: linear-gradient(98.79deg, #5cdb94 38.42%, #2e35ff46),
+      url("/hero-bg.png");
+  }
+  .form-bg {
+    background: #ffffff9e;
+  }
+  .statistics-bg {
+    background: radial-gradient(
+      100% 213.55% at 0% 50.31%,
+      rgba(75, 163, 166, 0.2) 0%,
+      rgba(75, 163, 166, 0.2) 100%
+    );
+  }
+  .testimonials-bg {
+    background: radial-gradient(
+      90.16% 143.01% at 15.32% 21.04%,
+      rgb(56 149 131 / 87%) 0%,
+      rgb(92 219 148) 77.08%,
+      rgb(141 228 175) 100%
+    );
+  }
+  .testimonials-bg2 {
+    background: radial-gradient(
+      90.16% 143.01% at 15.32% 21.04%,
+      rgb(56 149 131 / 87%) 0%,
+      rgb(92 219 148) 77.08%,
+      rgb(141 228 175) 100%
+    );
+  }
+
+  .text-hover {
+    transition: transform;
+    transition-delay: 0.2s;
+    transition-duration: 0.6s;
+  }
+
+  .read_more {
+    display: none;
+  }
+  .text-hover:hover .read_more {
+    display: inline;
+  }
+  .hover-class {
+    cursor: pointer;
+  }
+  .read_more_link {
+    opacity: 0;
+    transition: opacity;
+    transition-delay: 0.3s;
+    transition-duration: 0.8s;
+  }
+  .hover-class:hover .read_more_link {
+    opacity: 1;
+  }
+  .hover-class:hover .text-hover {
+    transform: translateY(-50px);
+  }
+}
+
+@layer utilities {
+  .banner::after {
+    background-color: white;
+    content: "";
+    position: absolute;
+    left: 0;
+    width: 95px;
+    height: 5px;
+    top: 0;
+  }
+  .form-bg .react-tel-input .flag-dropdown {
+    border: 1px solid transparent;
+    background: transparent;
+  }
+  .form-bg .react-tel-input .selected-flag:hover {
+    background: transparent;
+    border: 1px solid transparent;
+  }
+  .prev-btn {
+    left: -21px;
+    top: 0;
+    bottom: 0;
+    background: transparent;
+  }
+  .prev-btn img,
+  .next-btn img {
+    box-shadow: 0px 5px 10px #80808087;
+    border-radius: 50%;
+    max-width: 52px;
+  }
+
+  .next-btn {
+    right: -21px;
+    top: 0;
+    bottom: 0;
+  }
+  .prev-btn-testimonial {
+    width: 100px;
+    height: 100px;
+    left: -47px;
+    top: 0;
+    bottom: 0;
+  }
+  .next-btn-testimonial {
+    width: 100px;
+    height: 100px;
+    right: -45px;
+    top: 0;
+    bottom: 0;
+  }
+  .pricing_sec {
+    border: 2px solid rgba(0, 240, 255, 1);
+  }
+  .pricing_sec ul {
+    border-bottom: 1px solid #fff;
+  }
+  .price_Col {
+    border: 7px solid #fff;
+    margin-top: -30px;
+  }
+  .pricing_sec ul li:nth-child(odd) {
+    background-color: #fff;
+  }
+  .package-heading {
+    background: radial-gradient(
+      90.16% 143.01% at 15.32% 21.04%,
+      rgb(165 239 255 / 68%) 0%,
+      rgb(110 191 244 / 14%) 77.08%,
+      rgb(70 144 213 / 20%) 100%
+    );
+    background-blend-mode: overlay, normal;
+    border-radius: 28px;
+  }
+  .footer_sec {
+    border-bottom: 1px solid #fff;
+    justify-content: space-between;
+    margin: 0 auto;
+    max-width: 1250px;
+    padding: 50px 14px;
+  }
+  .white:hover {
+    filter: brightness(6);
+    transform: translate;
+    transition: all 0.2s ease;
+  }
+  .home_nav {
+    backdrop-filter: unset !important;
+  }
+  .home_nav button span {
+    top: 0;
+    left: 0;
+  }
+  .home_nav button span svg {
+    @apply text-color-third;
+  }
+  @media screen and (max-width: 1023px) {
+    .navigation a {
+      font-size: 4vw;
+    }
+  }
+  @media screen and (max-width: 650px) {
+    .next-btn {
+      right: -23px;
+    }
+  }
+}
+
+@layer base {
+}
+
+@layer utilities {
+}

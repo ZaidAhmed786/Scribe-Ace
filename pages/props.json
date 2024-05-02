@@ -1,0 +1,335 @@
+{
+    "hero_home": {
+        "heading": "Open Up Your Business to New Possibilities with a Leading Web Design Company!",
+        "description": "Got an interesting product to share with the world? Looking for someone to create a stunning website for your brand? Look no further because we are here to provide you with the best possible solutions. We are here to build your dream websites. We design and create engaging and user-friendly websites that enhance the user experience. We are here to give your brand the boost it needs.",
+        "listing": [
+            "Sleek Design",
+            "Fastest Turnaround Time",
+            "Seo Optimized",
+            "Fully Customized"
+        ]
+    },
+    "statistics_home": [
+        {
+            "title": "Satisfied Clients",
+            "count": 1874
+        },
+        {
+            "title": "Years of Experience",
+            "count": 7
+        },
+        {
+            "title": "Projects",
+            "count": 1874
+        },
+        {
+            "title": "Increased ROI",
+            "count": 187
+        }
+    ],
+    "service_data": {
+        "heading": "Database Administration",
+        "authors": "Database administration and website creation. It involves crafting an online application, like a website.  ",
+        "protect": "Marketing Services",
+        "handpick": "What stands as a cornerstone of contemporary marketing? It lies in elevating the visibility and distinction of the brand you advocate.  ",
+        "riding": "Our Services",
+        "understand": "Immersive and interactive websites that are not only stunning but user friendly as well. Custom websites specifically tailored to your needs and requirements",
+        "variety": "Optimization and customization",
+        "stream": "Built to optimize google search rankings",
+        "url": "/pexel.png"
+    },
+    "testimonials_home": [
+        {
+            "url": "person-1.avif",
+            "name": "David Weasley",
+            "role": "Website Developer",
+            "details": "We tried several agencies before we found. Has been a pleasure to work with and will soon start the next project with our second brand."
+        },
+        {
+            "url": "person-2.jfif",
+            "name": "Emma Watson",
+            "role": "Seo Expert",
+            "details": "We tried several agencies before we found. Has been a pleasure to work with and will soon start the next project with our second brand."
+        },
+        {
+            "url": "person-3.avif",
+            "name": "Serious Black",
+            "role": "User Interface",
+            "details": "We tried several agencies before we found. Has been a pleasure to work with and will soon start the next project with our second brand."
+        },
+        {
+            "url": "person-4.avif",
+            "name": "Dominic Torreto",
+            "role": "Graphic Designer",
+            "details": "We tried several agencies before we found. Has been a pleasure to work with and will soon start the next project with our second brand."
+        },
+        {
+            "url": "person-5.jpg",
+            "name": "Albert",
+            "role": "Call Center Agent",
+            "details": "We tried several agencies before we found. Has been a pleasure to work with and will soon start the next project with our second brand."
+        }
+    ],
+    "pricing_home": [
+        {
+            "name": "Basic",
+            "save": "Save 33% ",
+            "price": "$10",
+            "monthly": "$ 33 /Month",
+            "packageList": [
+                {
+                    "list": "3 page website"
+                },
+                {
+                    "list": "2 stock images"
+                },
+                {
+                    "list": "1 jquery slider banner"
+                },
+                {
+                    "list": "contact/query form"
+                },
+                {
+                    "list": "complete deployment"
+                },
+                {
+                    "list": "100% unique designs"
+                },
+                {
+                    "list": "100% Satisfaction."
+                },
+                {
+                    "list": "Unlimited revisions."
+                }
+            ],
+            "number": "+1 (863) 624-6770",
+            "start": "Let’s Chat"
+        },
+        {
+            "name": "Startup",
+            "save": "Save 33% ",
+            "price": "$10",
+            "monthly": "$ 33 /Month",
+            "packageList": [
+                {
+                    "list": "10 unique pages website"
+                },
+                {
+                    "list": "CMS/ Admin panel support"
+                },
+                {
+                    "list": "12 Stock images"
+                },
+                {
+                    "list": "5 Banner designs"
+                },
+                {
+                    "list": "1 jQuery slider banner"
+                },
+                {
+                    "list": "Social Media Integration"
+                },
+                {
+                    "list": "Free Google friendly sitemap"
+                },
+                {
+                    "list": "100% unique designs"
+                }
+            ],
+            "number": "+1 (863) 624-6770",
+            "start": "Let’s Chat"
+        },
+        {
+            "name": "Ultimate",
+            "save": "Save 33% ",
+            "price": "$10",
+            "monthly": "$ 33 /Month",
+            "packageList": [
+                {
+                    "list": "15 unique pages website"
+                },
+                {
+                    "list": "Conceptual and dynamic website"
+                },
+                {
+                    "list": "Mobile responsiveness"
+                },
+                {
+                    "list": "Online reservation/ appointment tool"
+                },
+                {
+                    "list": "Unlimited revisions."
+                },
+                {
+                    "list": "News Feed Integration."
+                },
+                {
+                    "list": "Complete Ownership Rights."
+                },
+                {
+                    "list": "SEO Submission"
+                }
+            ],
+            "number": "+1 (863) 624-6770",
+            "start": "Let’s Chat"
+        }
+    ],
+    "steps_home": [
+        {
+            "heading": "Your Idea",
+            "text": "We at BWQ Technologies value you and your product. It's very important for us to evaluate whether we are a good match for each other or not. In this session, we bounce ideas off each other to kick start the project.",
+            "num": "1",
+            "style": "fade-right"
+        },
+        {
+            "heading": "Planning Sessions",
+            "text": "We schedule planning and strategy sessions to make sure that both parties are on the same page before moving ahead with the project. We set up a system that helps us follow the whole process from start to finish.",
+            "num": "2",
+            "style": "fade-left"
+        },
+        {
+            "heading": "Agile and Scrum Framework",
+            "text": "The next step is to organize a team meeting with the project manager, lead developer, and designer. We work using agile and scrum frameworks to ensure the on-time delivery of the project.",
+            "num": "3",
+            "style": "fade-right"
+        },
+        {
+            "heading": "Go-Live",
+            "text": "We perform different tests to check that the website is fully optimized for user experience. It's very important for us to check the website for bugs and errors before going live. If everything is according to plan, we go live",
+            "num": "4",
+            "style": "fade-left"
+        },
+        {
+            "heading": "Website Seo",
+            "text": "Your business cannot reach its target audience without proper SEO. It’s a process of improving the quality and quantity of website traffic to a website or webpage from search engines.",
+            "num": "5",
+            "style": "fade-right"
+        },
+        {
+            "heading": "Branding Services ",
+            "text": "Building a name for your name could be pretty taxing and you can face a lot of challenges while establishing your brand identity and reaching out to your target audience. ",
+            "num": "6",
+            "style": "fade-left"
+        }
+    ],
+    "blogs_home": [
+        {
+            "title": "Logo Design",
+            "details": "A brand is the amalgamation of all the tangible and intangible components of an organization, whereas a logo is a graphic element that represents the brand alone",
+            "url": "/portfolio-1.png"
+        },
+        {
+            "title": "Branding Services",
+            "details": "A branding service for a business is a specialized service that aids organizations in developing and conveying their company’s message to their consumer base..",
+            "url": "/portfolio-2.png"
+        },
+        {
+            "title": "Seo Services",
+            "details": "SEO (Search Engine Optimization) is the process of driving traffic to a website from a search engine. People locate content online through search engines...",
+            "url": "/portfolio-3.png"
+        },
+        {
+            "title": "Website Development",
+            "details": "Website design, development, and upkeep are collectively referred to as web development. It covers things like web publishing, web programming...",
+            "url": "/portfolio-1.png"
+        },
+        {
+            "title": "Mobile App Development",
+            "details": "BWQ Technologies have years of experience in offering web and mobile app development services. We are not just bragging, our team of designers and developers.",
+            "url": "/portfolio-2.png"
+        }
+    ],
+    "benefits1": [
+        {
+            "url": "heads.png",
+            "title": "Professional In-house Team",
+            "details": "Behind all of our content is a team of 4 word masters. Our copy editors work closely with our team of writers to produce the custom content with all the specifications you want, whether a short and sweet brief or a detailed, in-depth one is provided. As a content writing services company we have helped more than 200 hundred different clients with their content writing in the last two years alone, and we want this number to grow."
+        },
+        {
+            "url": "time.png",
+            "title": "Fast Delivery",
+            "details": "Behind all of our content is a team of 4 word masters. Our copy editors work closely with our team of writers to produce the custom content with all the specifications you want, whether a short and sweet brief or a detailed, in-depth one is provided. As a content writing services company we have helped more than 200 hundred different clients with their content writing in the last two years alone, and we want this number to grow."
+        },
+        {
+            "url": "heads.png",
+            "title": "Unique and High-Quality Content",
+            "details": "Behind all of our content is a team of 4 word masters. Our copy editors work closely with our team of writers to produce the custom content with all the specifications you want, whether a short and sweet brief or a detailed, in-depth one is provided. As a content writing services company we have helped more than 200 hundred different clients with their content writing in the last two years alone, and we want this number to grow."
+        }
+    ],
+    "benefits2": [
+        {
+            "url": "setting.png",
+            "title": "Professional In-house Team",
+            "details": "Behind all of our content is a team of 4 word masters. Our copy editors work closely with our team of writers to produce the custom content with all the specifications you want, whether a short and sweet brief or a detailed, in-depth one is provided. As a content writing services company we have helped more than 200 hundred different clients with their content writing in the last two years alone, and we want this number to grow."
+        },
+        {
+            "url": "World.png",
+            "title": "An extensive Team of UK and US writers",
+            "details": "Behind all of our content is a team of 4 word masters. Our copy editors work closely with our team of writers to produce the custom content with all the specifications you want, whether a short and sweet brief or a detailed, in-depth one is provided. As a content writing services company we have helped more than 200 hundred different clients with their content writing in the last two years alone, and we want this number to grow."
+        },
+        {
+            "url": "graph.png",
+            "title": "Boost Your SEO and Your Sales and Leads",
+            "details": "Behind all of our content is a team of 4 word masters. Our copy editors work closely with our team of writers to produce the custom content with all the specifications you want, whether a short and sweet brief or a detailed, in-depth one is provided. As a content writing services company we have helped more than 200 hundred different clients with their content writing in the last two years alone, and we want this number to grow."
+        }
+    ],
+    "cta_title": "Interested to work with us ? ",
+    "cta_details": "To determine which content writing service will suit your needs, explore what we offer at our content writing services company.",
+    "hero_book_editing": {
+        "heading": "Creating an exceptional brand!",
+        "description": "Crafting a reputation for your brand can be quite demanding, encountering numerous hurdles in the quest to solidify your brand identity and connect with your desired audience. In today's competitive business landscape, a meticulously devised business strategy is paramount for drawing in and captivating your target demographic. A carefully constructed business plan serves as a guiding framework to nurture your brand identity and foster meaningful engagement with your audience. "
+    },
+    "service_branding": {
+        "heading": "Navigating  Challenges",
+        "authors": "Embarking on the journey of starting a business entails encountering a plethora of hurdles and obstacles. ",
+        "protect": "Assistance in Brand Creation",
+        "handpick": "However, fret not, as assistance is at hand! Through our comprehensive branding services.  ",
+        "riding": " Business Potential",
+        "understand": "Our tailored approach aims not only to overcome the challenges of brand building but also to unlock the full potential of your business. ",
+        "variety": "Realizing Your Vision",
+        "stream": "So, whether you're just starting out or seeking to revitalize an existing brand, entrust us to transform your vision into reality ",
+        "url": "/pexel.png"
+    },
+    "seo_process": {
+        "heading": "On-Page Optimization",
+        "authors": "Enhance your website's visibility by optimizing on-page elements. Effective on-page SEO ensures that search engines like Google understand and rank your content accurately.",
+        "protect": "Off-Page Optimization",
+        "handpick": "Elevate your brand's presence beyond your website with strategic off-page SEO techniques. This involves activities such as guest posting, link building, and social media marketing.",
+        "riding": "Monitoring and Analysis",
+        "understand": "Maintain and improve your brand's visibility through ongoing monitoring and analysis. By tracking key performance indicators like website traffic, engagement metrics, and keyword rankings.",
+        "variety": "Enhanced Reporting for Actionable Insights",
+        "stream": "In addition to these three foundational steps, our comprehensive SEO services offer enhanced reporting capabilities.",
+        "url": "/pexel.png"
+    },
+    "mobile_services": {
+        "heading": "Platform Diversity",
+        "authors": "In the realm of modern smartphones, two dominant platforms reign: Apple's iOS and Google's Android. While both offer vast opportunities for app development, they require distinct software development kits",
+        "protect": "Expansive Reach",
+        "handpick": "With iOS powering Apple's iconic iPhone range and Android serving as the foundation for a multitude.",
+        "riding": "Performance Optimization",
+        "understand": "Efficient performance and seamless user experience are paramount in mobile app development.  ",
+        "variety": "Security Measures and Data Protection",
+        "stream": "Ensuring the security and privacy of user data is a critical concern for mobile app developers. ",
+        "url": "/pexel.png"
+    },
+    "seo_home": {
+        "heading": "Preparing your business for triumph",
+        "description": "Without effective SEO, your business won't connect with its intended audience. SEO involves enhancing both the quality and quantity of website traffic from search engines to your site or page. At Solitary Dev, we specialize in delivering professional and cost-effective website SEO services. Our goal is to elevate your website's quality through comprehensive SEO solutions. Without proper SEO, your brand remains inaccessible to your target audience, but we're here to change that! Our SEO services are:",
+        "listing": [
+            "Cost-effective",
+            "Delivering the highest conversion rates",
+            "Strengthening your website",
+            " Offering the best ROI"
+        ]
+    },
+    "mobile_home": {
+        "heading": "  Mobilizing your dreams into reality!",
+        "description": "Personalized mobile applications that improve brand awareness, sales, and reputation!.Solitary Dev is a USA based mobile app development company and our mobile app development services are top notch and world renowned.Join us and get the most stunning mobile apps developed for your brands.",
+        "listing": [
+            "Stylish Designs",
+            "Engagement of target audience",
+            "Quality and functionality",
+            "Enhanced user experience"
+        ]
+    }
+}
