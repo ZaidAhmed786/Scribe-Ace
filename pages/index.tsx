@@ -35,7 +35,7 @@ export default function Home() {
       <Steps steps = {props.steps_home}/> 
       <Benifits benefits1 = {props.benefits1} benefits2={props.benefits2}/>
       <Blogs data={props.blogs_home} />
-      <Portfolio />
+      {/* <Portfolio /> */}
       <Pricing prices = {props.pricing_home}/>
       <Testimonials testimonials = {props.testimonials_home}/>
       <Footer />

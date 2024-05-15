@@ -75,19 +75,8 @@ const Footer = () => {
         </div>
       </div>
 
-      <div className="max-w-[1252px] mx-auto py-4 flex md:flex-row gap-4 md:gap-0 flex-col justify-center items-center md:justify-between ">
-        <div className="flex space-x-3 ml-4 ">
-          <span className=" bg-[/FFFFFF] rounded-[50%] h-12 w-12 flex items-center justify-center social-icon">
-            <img src="iconFirst.png" alt="/" className="white" />
-          </span>
+      <div className="max-w-[1252px] mx-auto py-4 flex md:flex-row gap-4 md:gap-0 flex-col justify-center items-center md:justify-center ">
 
-          <span className="bg-[/FFFFFF] rounded-[50%]  h-12 w-12 flex items-center justify-center social-icon">
-            <img src="iconeTwo.png" alt="/" className="white" />
-          </span>
-          <span className="bg-[/FFFFFF] rounded-[50%]  h-12 w-12 flex items-center justify-center social-icon">
-            <img src="iconThree.png" alt="/" className="white" />
-          </span>
-        </div>
         <img
           className="w-3/4 lg:w-2/6  md:mr-4 md:w-[50%]"
           src="payment-icon 1.png"
@@ -97,7 +86,7 @@ const Footer = () => {
       <div className="container mx-auto px-4 bottom-1 pb-4 footer_border">
         <div className="flex flex-wrap justify-center items-center">
           <p className="text-white text-sm sm:text-base">
-            Copyright © 2024 BWQ Technologies LLC |{" "}
+            Copyright © 2024 Beamen Tech LLC |{" "}
             <Link href="/refund-policy">Refund Policy</Link> |{" "}
             <Link href="/terms-conditions">Terms & Conditions </Link>|{" "}
             <Link href="/privacy-policy">Privacy Policy</Link>

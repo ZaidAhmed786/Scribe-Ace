@@ -27,11 +27,11 @@ const RefundPolicy = () => {
           
           <div>
             <h3 className="text-xl text-left font-semibold text-gray-800 mb-4">SEO Refund Policy</h3>
-            <p className="text-gray-700 mb-2">BWQ Technologies will not be liable for refund or guarantee of top search ranking under the following circumstances:</p>
+            <p className="text-gray-700 mb-2">Beamen Tech LLC will not be liable for refund or guarantee of top search ranking under the following circumstances:</p>
             <ul className="text-gray-700 mb-4">
               <li>In case of effect on SEO ranking due to changes in ranking algorithm, policies or functionality of search engines.</li>
               <li>Link building, a part of SEO, is carried out based on the information provided by you. If the URLs given are incorrect, we will not be responsible for any subsequent errors and there will not be any refunds or money-back guarantee.</li>
-              <li>BWQ Technologies will not be responsible for SEO results if the client engages with any other third-party SEO services.</li>
+              <li>Beamen Tech LLC will not be responsible for SEO results if the client engages with any other third-party SEO services.</li>
               <li>Number of times and rank of a website appearing on the search list varies, and thus an immediate change in the search ranking cannot be guaranteed.</li>
               <li>Any adverse effect on ranking due to changes in website content by the client or third-party service provider hired by them.</li>
               <li>We make no guarantee that our SEO services will show the client’s website in the top ten search rank. However, understand that we work in your best interest and put in our best effort to provide genuinely profitable results. Our aim is to make your life simpler and your business more lucrative.</li>
