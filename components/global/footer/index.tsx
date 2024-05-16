@@ -6,12 +6,13 @@ const Footer = () => {
       <div className=" flex lg:m-auto m-auto flex-col lg:flex-row ml-5 mr-8 footer_sec">
         <div className="  sm:justify-center">
           <h2 className="text-color-secondary font-semibold text-xl">
-            Website Development
+          <p> Beamen Tech LLC</p>
           </h2>
           <p className="text-color-fifth lg:font-medium font-normal lg:text-sm lg:max-w-sm mt-4 leading-7">
-            Website design, development, and upkeep are collectively referred to
-            as web development. It covers things like web publishing, web
-            programming...
+        
+<p>564 4th Ave, San Bruno, CA 94066</p>
+<p><a href="mailto:admin@cabledeal.live">admin@cabledeal.live</a></p>
+<p><a href="tel:+1 (855)-437-9557">+1 (855) 437-9557</a></p>
           </p>
         </div>
         <div>
