@@ -56,7 +56,7 @@ const TermsAndConditions = () => {
               <p className="text-gray-700 mb-2">If you have any questions regarding our Terms and Conditions or your dealings with scribe-ace.vercel.app, please contact through our Contact Form, or with the following information:</p>
               <p className="text-gray-700 mb-2">Beamen Tech LLC</p>
               <p className="text-gray-700 mb-2">564 4th Ave, San Bruno, CA 94066</p>
-              <p className="text-gray-700 mb-2"> <a href="tel:18554379557">+1 (855) 437-9557</a></p>
+              <p className="text-gray-700 mb-2"> <a href="tel:8554386037">+1 (855) 438-6037</a></p>
               <p className="text-gray-700 mb-2"><a href="mailto:admin@cabledeal.live">admin@cabledeal.live</a></p>
             </div>
 

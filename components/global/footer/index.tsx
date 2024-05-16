@@ -6,13 +6,16 @@ const Footer = () => {
       <div className=" flex lg:m-auto m-auto flex-col lg:flex-row ml-5 mr-8 footer_sec">
         <div className="  sm:justify-center">
           <h2 className="text-color-secondary font-semibold text-xl">
-          <p> Beamen Tech LLC</p>
+            <p> Beamen Tech LLC</p>
           </h2>
           <p className="text-color-fifth lg:font-medium font-normal lg:text-sm lg:max-w-sm mt-4 leading-7">
-        
-<p>564 4th Ave, San Bruno, CA 94066</p>
-<p><a href="mailto:admin@cabledeal.live">admin@cabledeal.live</a></p>
-<p><a href="tel:+1 (855)-437-9557">+1 (855) 437-9557</a></p>
+            <p>564 4th Ave, San Bruno, CA 94066</p>
+            <p>
+              <a href="mailto:admin@cabledeal.live">admin@cabledeal.live</a>
+            </p>
+            <p>
+              <a href="tel:+1 (855) 438-6037">+1 (855) 438-6037</a>
+            </p>
           </p>
         </div>
         <div>
@@ -77,7 +80,6 @@ const Footer = () => {
       </div>
 
       <div className="max-w-[1252px] mx-auto py-4 flex md:flex-row gap-4 md:gap-0 flex-col justify-center items-center md:justify-center ">
-
         <img
           className="w-3/4 lg:w-2/6  md:mr-4 md:w-[50%]"
           src="payment-icon 1.png"
