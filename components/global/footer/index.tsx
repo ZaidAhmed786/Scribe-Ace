@@ -6,12 +6,12 @@ const Footer = () => {
       <div className=" flex lg:m-auto m-auto flex-col lg:flex-row ml-5 mr-8 footer_sec">
         <div className="  sm:justify-center">
           <h2 className="text-color-secondary font-semibold text-xl">
-            <p> Beamen Tech LLC</p>
+            <p> Newill Resources LLC</p>
           </h2>
           <p className="text-color-fifth lg:font-medium font-normal lg:text-sm lg:max-w-sm mt-4 leading-7">
-            <p>564 4th Ave, San Bruno, CA 94066</p>
+            <p>3060 E College Ave # 138, Ruskin, FL 33570</p>
             <p>
-              <a href="mailto:admin@cabledeal.live">admin@cabledeal.live</a>
+              <a href="mailto:admin@zolara.live ">admin@zolara.live </a>
             </p>
             <p>
               <a href="tel:+1 (855) 438-6037">+1 (855) 438-6037</a>
@@ -89,7 +89,7 @@ const Footer = () => {
       <div className="container mx-auto px-4 bottom-1 pb-4 footer_border">
         <div className="flex flex-wrap justify-center items-center">
           <p className="text-white text-sm sm:text-base">
-            Copyright © 2024 Beamen Tech LLC |{" "}
+            Copyright © 2024 Newill Resources LLC |{" "}
             <Link href="/refund-policy">Refund Policy</Link> |{" "}
             <Link href="/terms-conditions">Terms & Conditions </Link>|{" "}
             <Link href="/privacy-policy">Privacy Policy</Link>

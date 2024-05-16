@@ -77,7 +77,7 @@ const Portfolio = () => {
             Our Work
           </h1>
           <p className=" mx-auto leading-6 text-base xl:text-xl lg:text-lg  text-md px-3 font-normal text-color-fifth">
-          Beamen Tech LLC offers website design and development services and
+          Newill Resources LLC  offers website design and development services and
             promises to become a big part of its customer’s success and growth.
           </p>
         </div>

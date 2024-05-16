@@ -116,12 +116,12 @@ export default function Header() {
               href="/"
               className="text-color-primary md:text-[30px] font-semibold text-[20px]"
             >
-              Beamen Tech
+             Newill Resources LLC
             </Link>
           </div>
           <div>
             <Link
-              href="tel:+18554386037"
+              href="tel:+1 (855) 438-6037"
               className="bg-color-secondary font-semibold text-color-fourth bg inline-block md:text-xl md:py-2 md:px-8 py-1 px-3  rounded-[28px] sm:text-lg"
             >
               +1 (855) 438-6037

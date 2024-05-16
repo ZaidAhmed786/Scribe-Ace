@@ -21,7 +21,7 @@ const TermsAndConditions = () => {
 
             <div className="mb-8">
               <h3 className="text-xl text-left font-semibold text-gray-800 mb-4">Use of Our Website</h3>
-              <p className="text-gray-700 mb-2">You are permitted to use this site for your own purposes to print, download, and share material provided you do not modify any content without our explicit consent. Material on this website may not be republished online or offline without our permission. The copyright and all intellectual property rights of the material on this site are owned by Beamen Tech LLC and may not be reproduced without our prior consent.</p>
+              <p className="text-gray-700 mb-2">You are permitted to use this site for your own purposes to print, download, and share material provided you do not modify any content without our explicit consent. Material on this website may not be republished online or offline without our permission. The copyright and all intellectual property rights of the material on this site are owned by Newill Resources LLC and may not be reproduced without our prior consent.</p>
             </div>
 
             <div className="mb-8">
@@ -37,12 +37,12 @@ const TermsAndConditions = () => {
 
             <div className="mb-8">
               <h3 className="text-xl text-left font-semibold text-gray-800 mb-4">Links to and from other Websites</h3>
-              <p className="text-gray-700 mb-2">In order to provide additional information or services, Beamen Tech LLC may include links to external websites. Clicking on such a link will navigate you away from the Digital Marketing Agencies site. The inclusion of links does not necessarily imply a recommendation, nor does it in any way endorse the views expressed within them. Other site’s Terms and Conditions may differ from our own. When clicking off the Beamen Tech LLC site, we strongly encourage you to visit the other site’s Terms and Conditions to ensure it meets the standards of your own personal preferences.</p>
+              <p className="text-gray-700 mb-2">In order to provide additional information or services, Newill Resources LLC may include links to external websites. Clicking on such a link will navigate you away from the Digital Marketing Agencies site. The inclusion of links does not necessarily imply a recommendation, nor does it in any way endorse the views expressed within them. Other site’s Terms and Conditions may differ from our own. When clicking off the Newill Resources LLC site, we strongly encourage you to visit the other site’s Terms and Conditions to ensure it meets the standards of your own personal preferences.</p>
             </div>
 
             <div className="mb-8">
               <h3 className="text-xl text-left font-semibold text-gray-800 mb-4">Exclusion of Liability</h3>
-              <p className="text-gray-700 mb-2">In no event will Beamen Tech LLC be held liable for any loss or damage of information including but not limited to indirect or consequential loss or damage, loss or damage of data, or profits arising out of or in connection with the use of this website. Beamen Tech LLC may not be held liable or responsible in any way for loss or damage that may result to you or a third party as a result of your use of our website.</p>
+              <p className="text-gray-700 mb-2">In no event will Newill Resources LLC be held liable for any loss or damage of information including but not limited to indirect or consequential loss or damage, loss or damage of data, or profits arising out of or in connection with the use of this website. Newill Resources LLC may not be held liable or responsible in any way for loss or damage that may result to you or a third party as a result of your use of our website.</p>
               <p className="text-gray-700 mb-2">We take the utmost measures to ensure that the information provided on this site is correct, however; we do not make any guarantees regarding that information. This exclusion shall include servicing or repair costs and, without limitation, any other direct, indirect or consequential loss.</p>
             </div>
 
@@ -54,10 +54,10 @@ const TermsAndConditions = () => {
             <div className="mb-8">
               <h3 className="text-xl text-left font-semibold text-gray-800 mb-4">Contacting us</h3>
               <p className="text-gray-700 mb-2">If you have any questions regarding our Terms and Conditions or your dealings with scribe-ace.vercel.app, please contact through our Contact Form, or with the following information:</p>
-              <p className="text-gray-700 mb-2">Beamen Tech LLC</p>
-              <p className="text-gray-700 mb-2">564 4th Ave, San Bruno, CA 94066</p>
-              <p className="text-gray-700 mb-2"> <a href="tel:8554386037">+1 (855) 438-6037</a></p>
-              <p className="text-gray-700 mb-2"><a href="mailto:admin@cabledeal.live">admin@cabledeal.live</a></p>
+              <p className="text-gray-700 mb-2">Newill Resources LLC</p>
+              <p className="text-gray-700 mb-2">3060 E College Ave # 138, Ruskin, FL 33570</p>
+              <p className="text-gray-700 mb-2"> <a href="tel:+1 (855) 438-6037">+1 (855) 438-6037</a></p>
+              <p className="text-gray-700 mb-2"><a href="mailto:admin@zolara.live">admin@zolara.live</a></p>
             </div>
 
           </div>
